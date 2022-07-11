@@ -1,0 +1,22 @@
+body  {
+    background: url(../images/Football.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+div {
+    background-color: lightgray;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    width: 350px;
+    padding: 10px;
+    margin: 0% auto;
+    margin-top: 300px;
+    font-family: 'Splash', cursive;
+}
+h1:hover {
+    color: red;
+    cursor: pointer;
+
+}
